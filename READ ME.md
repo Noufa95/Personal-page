@@ -1,9 +1,9 @@
 
 ### Date created
-27-08-21
+05-09-21
 
 ### Project Title
-My travel plans
+Personal page
 
 # Description
 A simple app to keep track of destinations I'd like to visit.
