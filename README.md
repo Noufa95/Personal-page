@@ -26,3 +26,7 @@ Contributions are what make the open source community such an amazing place to l
 Nouf@alshowair.net
 
 Project Link: https://github.com/Noufa95/Personal-page.git
+
+### Credit
+
+A special thanks for the web developer DARKCODE for sharing the page codes.
